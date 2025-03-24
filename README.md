@@ -1,2 +1,1 @@
-# my-website
-Yağız Ömer Altun personal website
+Yağız Ömer Altun personal website created with next and tailwindcss
